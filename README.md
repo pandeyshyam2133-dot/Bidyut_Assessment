@@ -30,16 +30,16 @@ This is my submission for the Role-Based Access Control (RBAC) task. I built a s
 ##  How to run the project
 
 1. Open terminal in the project folder
-2. 2. Install required libraries:
+2. Install required libraries:
    ```bash
    pip install Flask Flask-SQLAlchemy Flask-Login Werkzeug
 3. Initialize the database:
 ``` python init_db.py
-3. Run the application:
+4. Run the application:
 
 ``` python app.py
 
-4. Open in browser:
+5. Open in browser:
 
 ``` http://127.0.0.1:5000
   
@@ -57,6 +57,3 @@ Password: user123
 
 Thanks for checking out my project! 🙌
 
-3. Install required libraries:
-   ```bash
-   pip install Flask Flask-SQLAlchemy Flask-Login Werkzeug
